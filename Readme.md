@@ -74,7 +74,7 @@ Exercise Expressions and Messages
 
 - Lecture Yourself 
 [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S10-Yourself.pdf)/
-[Video en] (https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S10-EN-V1.mp4)
+[Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S10-EN-V1.mp4)
 
 ### IDE 
 - Live A: Finding methods with the Finder[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
@@ -175,12 +175,12 @@ Exercise Expressions and Messages
 
 
 ## Essence of Dispatch
-- Lecture Taking Pharo Booleans as Example [PDF] (https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf]/[Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S1.mp4)
+- Lecture Taking Pharo Booleans as Example [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf]/[Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S1.mp4)
 
-- Lecture Let the receiver decide [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf) / [VIDEO] (https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S2_V2.mp4)
+- Lecture Let the receiver decide [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf) / [VIDEO](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S2_V2.mp4)
 
 ## Design Pattern Introduction
-- Lecture An Introduction to Design Patterns [PDF] (https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-1-DesignPattern-01-IntroDesignPattern.pdf) / [Video en] (https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S1.mp4)
+- Lecture An Introduction to Design Patterns [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-1-DesignPattern-01-IntroDesignPattern.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S1.mp4)
 
 
 ## Sends
