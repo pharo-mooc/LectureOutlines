@@ -108,10 +108,13 @@ Exercise Expressions and Messages
 [PDF](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S06-BasicClassMethods.pdf)/[VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S6-EN-V1.mp4)
 
 ## Inheritance 
-- Inheritance Basics
-- Lecture Inheritance & Lookup: Lookup
-- Lecture Inheritance & Lookup: Super
+- Lecture Inheritance Basics [PDF](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-3-Essence-03-Inheritance-Basic.pdf) / [VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S3.mp4)
+- Lecture Inheritance & Lookup: Lookup [PDF](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-4-Essence-04-Self.pdf) / [VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S4.mp4)
+- Lecture Inheritance & Lookup: Super [PDF](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-5-Essence-05-Super.pdf)/[VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S5.mp4)
 - Lecture Inheritance & Lookup: DoesNotUnderstand:
+
+## About delegation
+- Lecture Reification and delegation - A case study: Microdown in Pillar  [PDF](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-6-CaseStudy-07-Pillar-ReifyAndDispatch.pdf)/[VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S6.mp4)
 
 
 ## Metaclasses
@@ -169,8 +172,10 @@ Exercise Expressions and Messages
 - Lecture Reflection: Stack as an Object
 
 
+## Essence of Dispatch
+- Lecture Taking Pharo Booleans as Example [PDF] (https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf]/[VIDEO EN](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S1.mp4)
 
-
+- Lecture Let the receiver decide [PDF](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf)/[VIDEO] (http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S2_V2.mp4)
 
 
 
