@@ -1,18 +1,20 @@
 
 ## Test Basic 
 
-- M2-1 Test 101: The minimum you should know PDF / VIDEO 
-- M2-2 LectureTests: Why testing is Important? PDF / VIDEO
+- M2-1 Test 101: The minimum you should know [PDF](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-1-Tests-01-101.pdf) / [VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S1_V2.mp4)
+
+- M2-2 Lecture Tests: Why testing is Important? [PDF](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-2-Tests-02-Why.pdf) / [VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S2_V2.mp4)
 
 ## Test TDD
 
-- M2-3 LectureTest-Driven Development PDF / VIDEO
-- M2-5 LectureParametrized Tests: Getting more tests out of test cases PDF / VIDEO
+- M2-3 Lecture Test-Driven Development [PDF](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf) / [VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S3.mp4)
+
+- M2-5 Lecture Parametrized Tests: Getting more tests out of test cases [PDF](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-5-Tests-05-ParametrizedTests.pdf) / [VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S5.mp4)
 
 
 ## Test XTDD
 
-- M2-4 LectureXtreme Test Driven Development: Getting a productivity boost PDF / VIDEO
+- M2-4 Lecture Xtreme Test Driven Development: Getting a productivity boost [PDF](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-4-Tests-04-XTDD.pdf) / [VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S4_V2.mp4)
 
 ## Syntax one
 
