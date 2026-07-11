@@ -16,15 +16,18 @@
 
 ## Syntax one
 
-- Pharo Object Model in a Nutshell [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Pharo Object Model in a Nutshell 
+	[PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S04-PharoModelInaNushell.pdf)/[VIDEO EN](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/C019SD-W1-S4-EN-V1.mp4)
+
 - Lecture Pharo Syntax in a Nutshell
-[http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+	[PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S05-PharoSyntaxInANutshell.pdf)/[VIDEO EN](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/C019SD-W1-S5-EN-V1.mp4)
+
 - Lecture Class and Method Definitions
-[http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+[PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S06-ClassAndMethodDefinition.pdf)/[Video](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/C019SD-W1-S6-EN-V1.mp4)
 
 ### Exercices
-- Live Live A: Selecting Expressions [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live B: Prof Stef http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/
+- Live Live A: Selecting Expressions []
+- Live Live B: Prof Stef []
 - Live Live C: Syntax Highlighting gives Feedback
 - Live Live D: Learn Keyboard Shortcuts
 
@@ -39,49 +42,60 @@
 Exercise Expressions and Messages
 
 ## Syntax: messages
-- Understanding Messages [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Lecture Messages for Java programmer [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Understanding Messages [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf)
+/[VIDEO EN](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S1-EN-V1.mp4)
 
-- Lecture Messages: Composition and Precedence [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Lecture Understanding Messages: Sequence and Cascade [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Lecture Messages for Java programmer [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S02-Messages-ForTheJavaProgrammers.pdf) / [VIDEO EN](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S2-EN-V1.mp4)
+
+- Lecture Messages: Composition and Precedence [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S03-Messages-Precedence.pdf) / [VIDEO EN](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S3-EN-V1.mp4)
+
+- Lecture Understanding Messages: Sequence and Cascade PDF(https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S04-Messages-Sequence.pdf) /[VIDEO EN](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S4-EN-V1.mp4)
 
 ### Exercises
-- Live A: Understanding Implementor/Senders [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live B: Understanding class references [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live C: Find information using Spotter [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Redo Redo 1: Implementing Die mechanics [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Redo Redo 2: Implementing a Die handle [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Redo Redo 3: Finalizing the DSL [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live A: Understanding Implementor/Senders [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live Live B: Understanding class references [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live Live C: Find information using Spotter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Redo Redo 1: Implementing Die mechanics [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Redo Redo 2: Implementing a Die handle [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Redo Redo 3: Finalizing the DSL [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 
 
 ## Blocks and more 
-- Lecture Introduction to Blocks [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Lecture Loops [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Lecture Booleans and Conditions [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Lecture Parenthesis vs Square Brackets [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Lecture Yourself [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Lecture Introduction to Blocks [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S06-Blocks.pdf)/[VIDEO EN](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S6-EN-V1.mp4)
+
+- Lecture Loops [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S07-Loops.pdf)
+[VIDEO EN](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S7-EN-V1.mp4)
+
+- Lecture Booleans and Conditions []
+
+- Lecture Parenthesis vs Square Brackets [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S09-ParenthesisVsSquareBrackets.pdf) / [VIDEO EN](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S9-EN-V1.mp4)
+
+- Lecture Yourself 
+[PDF](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S10-Yourself.pdf)/
+[VIDEO EN] (http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S10-EN-V1.mp4)
 
 ### IDE 
-- Live A: Finding methods with the Finder[http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live B: Look closer at objects with the Inspector[http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live C: Browsing a class[http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live D: Working with scoped operations [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live A: Finding methods with the Finder[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live Live B: Look closer at objects with the Inspector[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live Live C: Browsing a class[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live Live D: Working with scoped operations [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 
 ### Exercise
 - Redo Redo 1:Xtreme TDD
 
-- Live A: Git: New project creation [http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live B: Git: Creating a remote repository to an existing project[http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live C: Loading a project with Metacello[http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live D: Applying Refactorings[http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live E: Quality checker in action[http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-
+- Live A: Git: New project creation [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live Live B: Git: Creating a remote repository to an existing project[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live Live C: Loading a project with Metacello[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live Live D: Applying Refactorings[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live Live E: Quality checker in action[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 
 ##  Essence of Dispatch
 
+
 ## Streams and Iterators
 
-- Lecture Iterators
+- Lecture Iterators [PDF](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S09-Iterators.pdf) / [Video](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S9-EN-V1.mp4)
+
 - Lecture Stream Overview
 - Lecture Understanding Return
 
@@ -89,18 +103,21 @@ Exercise Expressions and Messages
 - Lecture An Overview of Essential Collections
 - Lecture Variables
 - Lecture A Simple HTTP Application: a Pretext to Revisit Pharo Syntax
+
 - Lecture Class Methods 
+[PDF](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S06-BasicClassMethods.pdf)/[VIDEO EN](http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S6-EN-V1.mp4)
 
 ## Inheritance 
 - Inheritance Basics
 - Lecture Inheritance & Lookup: Lookup
--  Lecture Inheritance & Lookup: Super
--  Lecture Inheritance & Lookup: DoesNotUnderstand:
+- Lecture Inheritance & Lookup: Super
+- Lecture Inheritance & Lookup: DoesNotUnderstand:
 
 
 ## Metaclasses
 - Lecture Inheritance & Lookup: Lookup in Metaclasses
 - Lecture Class Methods at Work
+
 
 ## Web
 - Overview of Pharo Web Stack
@@ -147,9 +164,9 @@ Exercise Expressions and Messages
 
 ## Reflective Operations
 
-- Reflective Operations for Live Programming
+- Lecture Reflective Operations for Live Programming
 - Lecture DoesNotUnderstand: a Precious Hook
-- Reflection: Stack as an Object
+- Lecture Reflection: Stack as an Object
 
 
 
