@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 ## Syntax: Messages
 
 - Understanding Messages [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf)
