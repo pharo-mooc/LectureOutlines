@@ -67,12 +67,7 @@ https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
 - Lecture An Introduction to Design Patterns [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-1-DesignPattern-01-IntroDesignPattern.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S1.mp4)
 
 
-## Hooks and Reuse
-- Lecture Message Sends Are Plans for Reuse [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-2-Essence-07-SelfSendsArePlansForReuse.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S2_V2.mp4)
 
-- Lecture Hooks and Template: One of the Cornerstones of OOP [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-3-DesignPattern-02-HookAndTemplate.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S3_V2.mp4)
-
-- Lecture Using Well asString and printString: A Pharo Code Idiom [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-4-Lang-01-Stream.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S4.mp4)
 
 ## Rethink Global
 - Lecture Global to Parameter [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-5-BasicPrinciples-02-FromGlobalToParameter.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S5_V2.mp4)
