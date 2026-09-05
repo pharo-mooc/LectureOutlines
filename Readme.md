@@ -16,6 +16,8 @@
 
 - M2-4 Lecture Xtreme Test Driven Development: Getting a productivity boost [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-4-Tests-04-XTDD.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S4_V2.mp4)
 
+- Redo Redo 1:Xtreme TDD [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/W2-Redo-EN-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/W2-Redo-EN-final.mp4)
+
 
 ## Syntax in a Nutshell
 
@@ -71,6 +73,7 @@ Here is a PDF version of the exercise [PDF](https://rmod-pharo-mooc.lille.inria.
 - Redo Redo 7: Looking a commit history and changes with Iceberg [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo7-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo7-FR-final.mp4)
 
 
+
 ## Exercise Domain Specific Language
 
 You should do the following exercise as described in Chapter 6 of the book
@@ -107,7 +110,8 @@ or the following chapter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/
 - Lecture Loops [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S07-Loops.pdf)
 [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S7-EN-V1.mp4)
 
-- Lecture Booleans and Conditions []
+- Lecture Booleans and Conditions [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S08-BooleansAndCondition.pdf)
+[Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S8-EN-V1.mp4)
 
 - Lecture Parenthesis vs Square Brackets [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S09-ParenthesisVsSquareBrackets.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S9-EN-V1.mp4)
 
@@ -115,14 +119,16 @@ or the following chapter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/
 [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S10-Yourself.pdf)/
 [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S10-EN-V1.mp4)
 
+
 ### IDE 
 - Live A: Finding methods with the Finder[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 - Live Live B: Look closer at objects with the Inspector[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 - Live Live C: Browsing a class[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 - Live Live D: Working with scoped operations [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 
+
 ### Exercise
-- Redo Redo 1:Xtreme TDD
+
 
 - Live A: Git: New project creation [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 - Live Live B: Git: Creating a remote repository to an existing project[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)

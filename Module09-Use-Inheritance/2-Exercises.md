@@ -1,3 +1,0 @@
-# Exercises 
-
-Focus on projects ;)
