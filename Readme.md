@@ -1,9 +1,9 @@
-
 ## Test Basic 
 
 - M2-1 Test 101: The minimum you should know [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-1-Tests-01-101.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S1_V2.mp4)
 
 - M2-2 Lecture Tests: Why testing is Important? [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-2-Tests-02-Why.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S2_V2.mp4)
+
 
 ## Test TDD
 
@@ -16,7 +16,8 @@
 
 - M2-4 Lecture Xtreme Test Driven Development: Getting a productivity boost [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-4-Tests-04-XTDD.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S4_V2.mp4)
 
-## Syntax one
+
+## Syntax in a Nutshell
 
 - Pharo Object Model in a Nutshell 
 	[PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S04-PharoModelInaNushell.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/C019SD-W1-S4-EN-V1.mp4)
@@ -26,24 +27,62 @@
 
 - Lecture Class and Method Definitions
 [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S06-ClassAndMethodDefinition.pdf) / [Video](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/C019SD-W1-S6-EN-V1.mp4)
+- New class definitions: [https://github.com/pharo-project/pharo/blob/Pharo15/doc/FluidClassDefinition/FluidClassDefinition.md](https://github.com/pharo-project/pharo/blob/Pharo15/doc/FluidClassDefinition/FluidClassDefinition.md)
 
-### Exercices
-- Live Live A: Selecting Expressions []
-- Live Live B: Prof Stef []
-- Live Live C: Syntax Highlighting gives Feedback
-- Live Live D: Learn Keyboard Shortcuts
 
-- Redo Redo 1: Packages, classes and methods
-- Redo Redo 2: Adding some unit tests
-- Redo Redo 3: Looking back at method creation
-- Redo Redo 4: Save your code with Iceberg
-- Redo Redo 5: Object initialization
-- Redo Redo 6: Better printing with printOn:
-- Redo Redo 7: Looking a commit history and changes with Iceberg
 
-Exercise Expressions and Messages
+## Editing Exercices
+- Live Live A: Selecting Expressions [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveA-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveA-FR-final.mp4)
+- Live Live B: Prof Stef [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveB-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveB-FR-final.mp4)
+- Live Live C: Syntax Highlighting gives Feedback [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveC-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveC-FR-final.mp4)
+- Live Live D: Learn Keyboard Shortcuts [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveD-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveD-FR-final.mp4)
 
-## Syntax: messages
+
+## ProfStef: a little Interactive Tutorial
+
+Pharo includes an interactive tutorial inside the IDE called *ProfStef*.
+You can open it from a playground that you can get in the menu *Browse > Playground*.
+A playground is like an interactive console with vitamins.
+Inside you can type any code you want and execute it by 
+ - selecting the code you want
+ - right click -> *Do it*
+
+<img width="510" alt="imagen" src="https://github.com/UnivLille-Meta/Miage23/assets/708322/af8f9f82-4ad7-4a51-8e82-19fb0ca94b02">
+
+If you tried the two lines of code before, you probably noticed that a *Do it* on *1 + 1* did nothing.
+That is because *1 + 1* is an expression with a value, but it does not have any observable side effect.
+If you want to see the return value of an expression, you need to do *Print it* or *Do it and go* instead.
+For more, the ProfStef tutorial will guide you through the syntax of the language and the main ways to interact with the playground.
+
+
+## Counter Exercise
+
+Pay attention the class syntax changed.
+Check new class definitions: [https://github.com/pharo-project/pharo/blob/Pharo15/doc/FluidClassDefinition/FluidClassDefinition.md](https://github.com/pharo-project/pharo/blob/Pharo15/doc/FluidClassDefinition/FluidClassDefinition.md)
+
+Here is a PDF version of the exercise [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/Exo-Counter.pdf)
+
+- Redo Redo 1: Packages, classes and methods [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo1-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo1-FR-final.mp4)
+- Redo Redo 2: Adding some unit tests [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo2-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo2-FR-final.mp4)
+- Redo Redo 3: Looking back at method creation [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo3-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo3-FR-final.mp4)
+- Redo Redo 4: Save your code with Iceberg [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo4-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo4-FR-final.mp4)
+- Redo Redo 5: Object initialization [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo5-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo5-FR-final.mp4)
+- Redo Redo 6: Better printing with printOn: [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo6-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo6-FR-final.mp4)
+- Redo Redo 7: Looking a commit history and changes with Iceberg [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo7-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo7-FR-final.mp4)
+
+
+## Exercise Domain Specific Language
+
+You should do the following exercise as described in Chapter 6 of the book
+[https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/2024-04-01-CompanionExercise.pdf](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/2024-04-01-CompanionExercise.pdf)
+or the following chapter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/Exo-DSL-V2.pdf](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/Exo-DSL-V2.pdf)
+
+- Redo Redo 1: Implementing Die mechanics [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Redo Redo 2: Implementing a Die handle [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Redo Redo 3: Finalizing the DSL [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+
+
+## Syntax: Messages
 - Understanding Messages [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf)
 /[Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S1-EN-V1.mp4)
 
@@ -53,13 +92,13 @@ Exercise Expressions and Messages
 
 - Lecture Understanding Messages: Sequence and Cascade PDF(https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S04-Messages-Sequence.pdf) /[Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S4-EN-V1.mp4)
 
-### Exercises
+
+### Understanding Navigation 
+
 - Live A: Understanding Implementor/Senders [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 - Live Live B: Understanding class references [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 - Live Live C: Find information using Spotter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Redo Redo 1: Implementing Die mechanics [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Redo Redo 2: Implementing a Die handle [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Redo Redo 3: Finalizing the DSL [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+
 
 
 ## Blocks and more 
