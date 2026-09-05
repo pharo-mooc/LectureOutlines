@@ -94,10 +94,7 @@ https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
 
 - Lecture Blocks vs. Objects: Rethinking Common Abstractions [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-6-Lang-04-BlocksVsObjects.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S6_V2.mp4)
 
-## Null checks
-- Lecture Avoid Null Checks [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-7-Principles-01-AvoidIsNil.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S7_V2.mp4)
 
-- Lecture About Null Check: The Case of Lazy Initialization [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-1-Principles-01-LazyInitialization.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S1.mp4)
 
 ## Fluid API 
 - Lecture About Fluid API [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-8-CaseStudy-02-AboutFluidAPI.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S8.mp4)
