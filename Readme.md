@@ -83,14 +83,23 @@ https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
 
 - Lecture About Global Variables [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-3-Principles-02-AboutGlobalVariables.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S3.mp4)
 
+
+## Fat 
+
 - Lecture Fat Classes Are Bad – A Large Class vs. a Class Hierarchy [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-4-BasicPrinciples-05-FatClassesAreBad.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S4.mp4)
 
 
-## Singleton
+## Design Pattern: Singleton
 
 - Lecture Singleton: A Highly Misunderstood Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-5-DesignPattern-06-Singleton.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S5.mp4)
 
+
+## Design Pattern: Decorator
+
 - Lecture Decorator Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-6-DesignPattern-09-Decorator.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S6.mp4)
+
+
+## Design Pattern: Composite
 
 - Lecture Composite: A Nice and Common Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-1-DesignPattern-03-Composite.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S1_V2.mp4)
 
@@ -101,9 +110,6 @@ https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
 
 - Lecture Application of Command Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Application.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M5_S3_partie2_V2.mp4)
 
-## Delegation and Inheritance
-
-- Lecture Delegation vs. Inheritance [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-4-BasicPrinciples-06-DelegationVsInheritance.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S4.mp4)
 
 ## Emergence of Objects
 - Lecture Turning Procedures to Objects [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-5-CaseStudy-01-TurningAProcIntoAnObject.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S5_V2.mp4)
