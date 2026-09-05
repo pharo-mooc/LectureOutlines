@@ -14,35 +14,18 @@
 - Lecture Understanding Return [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S11-UnderstandingReturn.pdf)
 
 
-
-
-
-
-
 ## Class Methods
 
 - Lecture Class Methods 
 [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S06-BasicClassMethods.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S6-EN-V1.mp4)
 
-## Inheritance 
 
-- Lecture Inheritance Basics [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-3-Essence-03-Inheritance-Basic.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S3.mp4)
-- Lecture Inheritance & Lookup: Lookup [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-4-Essence-04-Self.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S4.mp4)
-- Lecture Inheritance & Lookup: Super [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-5-Essence-05-Super.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S5.mp4)
-- Lecture Inheritance & Lookup: DoesNotUnderstand:
 
 ## About delegation
 
 - Lecture Reification and delegation - A case study: Microdown in Pillar  [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-6-CaseStudy-07-Pillar-ReifyAndDispatch.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S6.mp4)
 
 
-## Metaclasses
-
-- Lecture Understanding Metaclasses [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S03-UnderstandingMetaclasses.pdf)
-
-- Lecture Class Methods at Work [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S06-ClassMethodsAtWork.pdf)
-
-- Lecture Inheritance and Lookup with Metaclasses [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S05-InheritanceAndLookup-5-LookupMetaclasses.pdf)
 
 
 
@@ -64,10 +47,6 @@ https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
 - Lecture Message sends are plans for reuse
 - Lecture Hooks and Templates
 
-
-
-## Understanding Metaclasses
-- Lecture Understanding Metaclasses
 
 
 ## Advanced points on Classes
