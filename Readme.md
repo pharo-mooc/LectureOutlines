@@ -91,7 +91,23 @@ Exercise Expressions and Messages
 - Live Live D: Applying Refactorings[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 - Live Live E: Quality checker in action[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 
-##  Essence of Dispatch
+## Essence of Dispatch
+
+- Lecture Taking Pharo Booleans as Example [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf]/[Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S1.mp4)
+
+- Lecture Let the receiver decide [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf) / [VIDEO](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S2_V2.mp4)
+
+## Why Pharo?
+
+Did you read the testimonies of the mooc https://mooc.pharo.org and https://advanced-design-mooc.pharo.org?
+I mean do you think that all these people are lying or totally stupid?
+
+Then Pharo is fun and it will help you to massively learn. 
+
+In addition read and watch the following 
+- [https://www.youtube.com/watch?v=VtRyJnBmEE0](https://www.youtube.com/watch?v=VtRyJnBmEE0)
+- 401-duca-what-devs-are-doing-with-pharo.pdf [https://archive.esug.org/ESUG2025/day4/401-duca-what-devs-are-doing-with-pharo.pdf](https://archive.esug.org/ESUG2025/day4/401-duca-what-devs-are-doing-with-pharo.pdf)
+- 408-duca-what-people-are-doing-with-pharo.pdf [https://archive.esug.org/ESUG2025/day4/408-duca-what-people-are-doing-with-pharo.pdf](https://archive.esug.org/ESUG2025/day4/408-duca-what-people-are-doing-with-pharo.pdf)
 
 
 ## Streams and Iterators
@@ -174,22 +190,20 @@ Exercise Expressions and Messages
 - Lecture Reflection: Stack as an Object
 
 
-## Essence of Dispatch
-- Lecture Taking Pharo Booleans as Example [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf]/[Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S1.mp4)
 
-- Lecture Let the receiver decide [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf) / [VIDEO](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S2_V2.mp4)
 
 ## Design Pattern Introduction
 - Lecture An Introduction to Design Patterns [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-1-DesignPattern-01-IntroDesignPattern.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S1.mp4)
 
 
-## Sends
+## Hooks and Reuse
 - Lecture Message Sends Are Plans for Reuse [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-2-Essence-07-SelfSendsArePlansForReuse.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S2_V2.mp4)
 
 - Lecture Hooks and Template: One of the Cornerstones of OOP [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-3-DesignPattern-02-HookAndTemplate.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S3_V2.mp4)
 
 - Lecture Using Well asString and printString: A Pharo Code Idiom [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-4-Lang-01-Stream.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S4.mp4)
 
+## Rethink Global
 - Lecture Global to Parameter [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-5-BasicPrinciples-02-FromGlobalToParameter.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S5_V2.mp4)
 
 - Lecture Methods: The Elementary Unit of Reuse [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-1-BasicPrinciples-01-MethodIsReuse.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S1.mp4)
@@ -200,6 +214,9 @@ Exercise Expressions and Messages
 
 - Lecture Fat Classes Are Bad – A Large Class vs. a Class Hierarchy [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-4-BasicPrinciples-05-FatClassesAreBad.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S4.mp4)
 
+
+## Singleton
+
 - Lecture Singleton: A Highly Misunderstood Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-5-DesignPattern-06-Singleton.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S5.mp4)
 
 - Lecture Decorator Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-6-DesignPattern-09-Decorator.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S6.mp4)
@@ -208,20 +225,29 @@ Exercise Expressions and Messages
 
 - Lecture About State Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-2-DesignPattern-11-State.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S2_V2.mp4)
 
+## Command Pattern
 - Lecture Command Design Pattern: Actions as Objects [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Definition.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S3_Partie1_V2.mp4)
 
 - Lecture Application of Command Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Application.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M5_S3_partie2_V2.mp4)
 
+## Delegation and Inheritance
+
 - Lecture Delegation vs. Inheritance [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-4-BasicPrinciples-06-DelegationVsInheritance.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S4.mp4)
 
+## Emergence of Objects
 - Lecture Turning Procedures to Objects [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-5-CaseStudy-01-TurningAProcIntoAnObject.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S5_V2.mp4)
 
 - Lecture Blocks vs. Objects: Rethinking Common Abstractions [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-6-Lang-04-BlocksVsObjects.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S6_V2.mp4)
 
+## Null checks
 - Lecture Avoid Null Checks [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-7-Principles-01-AvoidIsNil.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S7_V2.mp4)
 
+- Lecture About Null Check: The Case of Lazy Initialization [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-1-Principles-01-LazyInitialization.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S1.mp4)
+
+## Fluid API 
 - Lecture About Fluid API [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-8-CaseStudy-02-AboutFluidAPI.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S8.mp4)
 
+## Double Dispatch
 
 - Lecture A Double Dispatch Starter: Stone Paper Scissors [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-1-DoubleDispatch-01-StoneExercise.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M06_S1.mp4)
 
@@ -229,15 +255,18 @@ Exercise Expressions and Messages
 
 - Lecture A Die + a DieHandle: Practicing Dispatch More [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-3-DoubleDispatch-03-Dice.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M06_S3.mp4)
 
+## Visitor 
 - Lecture Visitor: Modular and Extensible First-Class Actions [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-4-DesignPattern-04-Visitor.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M06_S4.mp4)
 
 - Lecture Some Discussions on Visitor [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-5-DesignPattern-05-VisitorDiscussions.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M06_S5.mp4)
+
+## Double Dispatch Discussions
 
 - Lecture Stone Paper Scissors: The Case of Results [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-6-DoubleDispatch-05-StoneExercise-AboutResult.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M06_S6.mp4)
 
 - Lecture Double Dispatch: Adding Numbers as a Kata [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-7-DoubleDispatch-AddingNumbers.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M06_S7.mp4)
 
-- Lecture About Null Check: The Case of Lazy Initialization [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-1-Principles-01-LazyInitialization.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S1.mp4)
+
 
 - Lecture Customization Degree of Hooks: Class vs. Instance Hooks [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-2-Principles-07-ClassHookVsInstanceHook.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S2_V2.mp4)
 
@@ -280,6 +309,9 @@ Exercise Expressions and Messages
 - Lecture Class vs. Object-Oriented Programming [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-6-ClassVSObjectProgramming.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M09_S6_V2.mp4)
 
 - Lecture The Two Interfaces: In Presence of Delta Programming [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M10-1-Principles-12-DualInterfaces.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M10_S1.mp4)
+
+
+## Subclassing
 
 - Lecture Subclassing vs. Subtyping [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M10-2-Principles-09-SubtypingVsSubclassing.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M10_S2_V2.mp4)
 
