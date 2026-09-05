@@ -1,7 +1,4 @@
 
-
-
-
 ## Streams and Iterators
 
 - Lecture Iterators [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S09-Iterators.pdf) / [Video](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S9-EN-V1.mp4)
@@ -24,10 +21,6 @@
 ## About delegation
 
 - Lecture Reification and delegation - A case study: Microdown in Pillar  [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-6-CaseStudy-07-Pillar-ReifyAndDispatch.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S6.mp4)
-
-
-
-
 
 
 ## More on literal objects 
@@ -60,19 +53,14 @@ https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
 
 ## Basic Reflection
 
-- Lecture Reflection: Basic Introspection 
+- Lecture Introspection [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S08-Introspection.pdf)
 
 ## Reflective Operations
 
-- Lecture Introspection [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S08-Introspection.pdf)
 - Lecture Reflective Operations for Live Programming [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S04-OtherReflective.pdf)
 - Lecture DoesNotUnderstand: a Precious Hook [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S05-DoesNotUnderstand.pdf)
 - Lecture Reflection: Stack as an Object [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S06-thisContext.pdf)
 
-## Files and Exceptions
-
-- Lecture Exceptions: [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S04-Exceptions.pdf)
-- Lecture Files [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf)
 
 
 ## Design Pattern Introduction
