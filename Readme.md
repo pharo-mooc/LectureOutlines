@@ -64,12 +64,7 @@ https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
 - Lecture Message sends are plans for reuse
 - Lecture Hooks and Templates
 
-## Step back
-- Really Understanding Class Methods
-- Lecture Common Errors
-- Lecture Powerful Exceptions: an Overview
-- Lecture Debugging in Pharo
-- Lecture Files in Pharo
+
 
 ## Understanding Metaclasses
 - Lecture Understanding Metaclasses
