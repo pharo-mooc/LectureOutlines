@@ -1,18 +1,5 @@
 
 
-## Test TDD
-
-- Lecture Test-Driven Development [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S3.mp4)
-
-- Lecture Parametrized Tests: Getting more tests out of test cases [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-5-Tests-05-ParametrizedTests.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S5.mp4)
-
-
-
-## Test XTDD
-
-- Lecture Xtreme Test Driven Development: Getting a productivity boost [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-4-Tests-04-XTDD.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S4_V2.mp4)
-
-- Redo Redo 1:Xtreme TDD [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/W2-Redo-EN-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/W2-Redo-EN-final.mp4)
 
 
 
@@ -21,23 +8,17 @@
 
 
 
-### Understanding Navigation 
-
-- Live A: Understanding Implementor/Senders [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live B: Understanding class references [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live C: Find information using Spotter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 
 
 
 
 
 
-### IDE 
 
-- Live A: Finding methods with the Finder[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live B: Look closer at objects with the Inspector[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live C: Browsing a class [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live D: Working with scoped operations [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+
+
+
+
 
 
 ## Advanced Features
