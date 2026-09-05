@@ -83,16 +83,9 @@ https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
 
 - Lecture About State Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-2-DesignPattern-11-State.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S2_V2.mp4)
 
-## Command Pattern
-- Lecture Command Design Pattern: Actions as Objects [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Definition.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S3_Partie1_V2.mp4)
-
-- Lecture Application of Command Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Application.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M5_S3_partie2_V2.mp4)
 
 
-## Emergence of Objects
-- Lecture Turning Procedures to Objects [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-5-CaseStudy-01-TurningAProcIntoAnObject.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S5_V2.mp4)
 
-- Lecture Blocks vs. Objects: Rethinking Common Abstractions [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-6-Lang-04-BlocksVsObjects.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S6_V2.mp4)
 
 
 
