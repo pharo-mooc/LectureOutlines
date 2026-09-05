@@ -1,22 +1,25 @@
-## Test Basic 
+## Basic on Testing
 
-- M2-1 Test 101: The minimum you should know [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-1-Tests-01-101.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S1_V2.mp4)
+- Lecture Test 101: The minimum you should know [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-1-Tests-01-101.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S1_V2.mp4)
 
-- M2-2 Lecture Tests: Why testing is Important? [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-2-Tests-02-Why.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S2_V2.mp4)
+- Lecture Tests: Why testing is Important? [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-2-Tests-02-Why.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S2_V2.mp4)
 
+- Lecture SUnit [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S06-SUnit.pdf)
 
 ## Test TDD
 
-- M2-3 Lecture Test-Driven Development [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S3.mp4)
+- Lecture Test-Driven Development [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S3.mp4)
 
-- M2-5 Lecture Parametrized Tests: Getting more tests out of test cases [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-5-Tests-05-ParametrizedTests.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S5.mp4)
+- Lecture Parametrized Tests: Getting more tests out of test cases [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-5-Tests-05-ParametrizedTests.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S5.mp4)
+
 
 
 ## Test XTDD
 
-- M2-4 Lecture Xtreme Test Driven Development: Getting a productivity boost [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-4-Tests-04-XTDD.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S4_V2.mp4)
+- Lecture Xtreme Test Driven Development: Getting a productivity boost [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-4-Tests-04-XTDD.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M02_S4_V2.mp4)
 
 - Redo Redo 1:Xtreme TDD [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/W2-Redo-EN-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/W2-Redo-EN-final.mp4)
+
 
 
 ## Syntax in a Nutshell
@@ -31,18 +34,24 @@
 [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S06-ClassAndMethodDefinition.pdf) / [Video](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/C019SD-W1-S6-EN-V1.mp4)
 - New class definitions: [https://github.com/pharo-project/pharo/blob/Pharo15/doc/FluidClassDefinition/FluidClassDefinition.md](https://github.com/pharo-project/pharo/blob/Pharo15/doc/FluidClassDefinition/FluidClassDefinition.md)
 
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S04-TeapotAsAPretext.pdf
 
 
-## Editing Exercices
+## Editing Practices
+
 - Live Live A: Selecting Expressions [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveA-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveA-FR-final.mp4)
-- Live Live B: Prof Stef [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveB-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveB-FR-final.mp4)
+
 - Live Live C: Syntax Highlighting gives Feedback [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveC-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveC-FR-final.mp4)
 - Live Live D: Learn Keyboard Shortcuts [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveD-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveD-FR-final.mp4)
 
 
-## ProfStef: a little Interactive Tutorial
+
+## ProfStef: a Little Interactive Tutorial
 
 Pharo includes an interactive tutorial inside the IDE called *ProfStef*.
+
+- Here is a videos Live B: Prof Stef [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveB-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveB-FR-final.mp4)
+
 You can open it from a playground that you can get in the menu *Browse > Playground*.
 A playground is like an interactive console with vitamins.
 Inside you can type any code you want and execute it by 
@@ -73,7 +82,6 @@ Here is a PDF version of the exercise [PDF](https://rmod-pharo-mooc.lille.inria.
 - Redo Redo 7: Looking a commit history and changes with Iceberg [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo7-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-Redo7-FR-final.mp4)
 
 
-
 ## Exercise Domain Specific Language
 
 You should do the following exercise as described in Chapter 6 of the book
@@ -85,7 +93,9 @@ or the following chapter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/
 - Redo Redo 3: Finalizing the DSL [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 
 
+
 ## Syntax: Messages
+
 - Understanding Messages [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf)
 /[Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S1-EN-V1.mp4)
 
@@ -93,8 +103,12 @@ or the following chapter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/
 
 - Lecture Messages: Composition and Precedence [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S03-Messages-Precedence.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S3-EN-V1.mp4)
 
-- Lecture Understanding Messages: Sequence and Cascade PDF(https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S04-Messages-Sequence.pdf) /[Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S4-EN-V1.mp4)
+- Lecture Understanding Messages: Sequence and Cascade [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S04-Messages-Sequence.pdf) /[Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S4-EN-V1.mp4)
 
+- Lecture A Simple HTTP Application: a Pretext to Revisit Pharo Syntax [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S04-TeapotAsAPretext.pdf)
+
+
+- Lecture Variables [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S03-Basic-Variables.pdf)
 
 ### Understanding Navigation 
 
@@ -105,6 +119,7 @@ or the following chapter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/
 
 
 ## Blocks and more 
+
 - Lecture Introduction to Blocks [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S06-Blocks.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week2/C019SD-W2-S6-EN-V1.mp4)
 
 - Lecture Loops [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S07-Loops.pdf)
@@ -121,13 +136,14 @@ or the following chapter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/
 
 
 ### IDE 
+
 - Live A: Finding methods with the Finder[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 - Live Live B: Look closer at objects with the Inspector[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Live Live C: Browsing a class[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Live Live C: Browsing a class [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 - Live Live D: Working with scoped operations [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
 
 
-### Exercise
+## Advanced Features
 
 
 - Live A: Git: New project creation [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
@@ -142,6 +158,7 @@ or the following chapter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/
 
 - Lecture Let the receiver decide [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf) / [VIDEO](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S2_V2.mp4)
 
+
 ## Why Pharo?
 
 Did you read the testimonies of the mooc https://mooc.pharo.org and https://advanced-design-mooc.pharo.org?
@@ -155,50 +172,73 @@ In addition read and watch the following
 - 408-duca-what-people-are-doing-with-pharo.pdf [https://archive.esug.org/ESUG2025/day4/408-duca-what-people-are-doing-with-pharo.pdf](https://archive.esug.org/ESUG2025/day4/408-duca-what-people-are-doing-with-pharo.pdf)
 
 
+
 ## Streams and Iterators
 
 - Lecture Iterators [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S09-Iterators.pdf) / [Video](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S9-EN-V1.mp4)
 
-- Lecture Stream Overview
-- Lecture Understanding Return
+- Lecture Stream Overview [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S10-Streams.pdf)
+
+
+## Understanding Return
+
+- Lecture Understanding Return [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S11-UnderstandingReturn.pdf)
+
+
 
 ## Collections 
-- Lecture An Overview of Essential Collections
-- Lecture Variables
-- Lecture A Simple HTTP Application: a Pretext to Revisit Pharo Syntax
+
+- Lecture An Overview of Essential Collections [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S07-Basic-ArraySetOrderedCollection.pdf)
+- Lecture Dynamic Vs. Literal Arrays [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week6/C019-W6S08-DynamicVersusLiteralArray.pdf)
+
+
+
+
+## Class Methods
 
 - Lecture Class Methods 
 [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S06-BasicClassMethods.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S6-EN-V1.mp4)
 
 ## Inheritance 
+
 - Lecture Inheritance Basics [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-3-Essence-03-Inheritance-Basic.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S3.mp4)
 - Lecture Inheritance & Lookup: Lookup [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-4-Essence-04-Self.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S4.mp4)
 - Lecture Inheritance & Lookup: Super [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-5-Essence-05-Super.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S5.mp4)
 - Lecture Inheritance & Lookup: DoesNotUnderstand:
 
 ## About delegation
+
 - Lecture Reification and delegation - A case study: Microdown in Pillar  [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-6-CaseStudy-07-Pillar-ReifyAndDispatch.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S6.mp4)
 
 
 ## Metaclasses
-- Lecture Inheritance & Lookup: Lookup in Metaclasses
-- Lecture Class Methods at Work
+
+- Lecture Understanding Metaclasses [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S03-UnderstandingMetaclasses.pdf)
+
+- Lecture Class Methods at Work [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S06-ClassMethodsAtWork.pdf)
+
+- Lecture Inheritance and Lookup with Metaclasses [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S05-InheritanceAndLookup-5-LookupMetaclasses.pdf)
 
 
 ## Web
-- Overview of Pharo Web Stack
-- Lecture Seaside: an Innovative Web Application Framework
-- Lecture Seaside: Rendering Components
-- Lecture Seaside: a Glance at MetaData and REST
-- Lecture Voyage: NoSql Object Database
+- Lecture Overview of Pharo Web Stack [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S07-PharoWebStack.pdf)
+- Lecture Seaside: an Innovative Web Application Framework [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S08-Seaside.pdf)
+- Lecture Seaside: Rendering Components [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S09-SeasideDSL.pdf)
+- Lecture Seaside: a Glance at MetaData and REST [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S10-Seaside-MagritteREST.pdf)
+- Lecture Voyage: NoSql Object Database [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S11-Voyage.pdf)
 
 ## More on literal objects 
-- Lecture Characters, Strings and Symbols
-- Lecture Dynamic Vs. Literal Arrays
+- Lecture Characters, Strings and Symbols [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week6/C019-W6S07-CharacterStringSymbol.pdf)
+
 
 ## Customizing Pharo
+
 - Live Live A: Customized tabs in the Inspector
+
 - Live Live B: Personalize your image startup
+
+
+https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
 
 ## Hooks
 - Lecture Message sends are plans for reuse
@@ -230,11 +270,15 @@ In addition read and watch the following
 
 ## Reflective Operations
 
-- Lecture Reflective Operations for Live Programming
-- Lecture DoesNotUnderstand: a Precious Hook
-- Lecture Reflection: Stack as an Object
+- Lecture Introspection [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S08-Introspection.pdf)
+- Lecture Reflective Operations for Live Programming [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S04-OtherReflective.pdf)
+- Lecture DoesNotUnderstand: a Precious Hook [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S05-DoesNotUnderstand.pdf)
+- Lecture Reflection: Stack as an Object [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S06-thisContext.pdf)
 
+## Files and Exceptions
 
+- Lecture Exceptions: [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S04-Exceptions.pdf)
+- Lecture Files [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf)
 
 
 ## Design Pattern Introduction
