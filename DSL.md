@@ -9,7 +9,6 @@ In Chapter 6 of the book
 or the following chapter [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/Exo-DSL-V2.pdf](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/Exo-DSL-V2.pdf)
 
 ### Videos: 
-[https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/W3-Redo1-EN-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/W3-Redo1-EN-final.mp4)
-- Redo Redo 1: Implementing Die mechanics [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Redo Redo 2: Implementing a Die handle [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
-- Redo Redo 3: Finalizing the DSL [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/)
+- Redo Redo 1: Implementing Die mechanics [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/W3-Redo1-EN-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/W3-Redo1-EN-final.mp4)
+- Redo Redo 2: Implementing a Die handle [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/W3-Redo2-EN-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/W3-Redo2-EN-final.mp4)
+- Redo Redo 3: Finalizing the DSL [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/W3-Redo3-EN-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/W3-Redo3-EN-final.mp4)
