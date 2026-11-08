@@ -1,55 +1,54 @@
 
 ## Streams and Iterators
 
-- Lecture Iterators [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S09-Iterators.pdf) / [Video](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S9-EN-V1.mp4)
+- Lecture Iterators [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S09-Iterators.pdf) / [Erratum](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S09-Iterators.pillar.erratum) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S9-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week3/C019SD-W3-S9-v3.mp4)
 
-- Lecture Stream Overview [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S10-Streams.pdf)
+- Lecture Stream Overview [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S10-Streams.pdf) / [Erratum](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S10-Streams.pillar.erratum) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S10-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week3/C019SD-W3-S10-v3.mp4)
 
 
 ## Understanding Return
 
-- Lecture Understanding Return [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S11-UnderstandingReturn.pdf)
+- Lecture Understanding Return [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S11-UnderstandingReturn.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S11-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week3/C019SD-W3-S11-v1.mp4)
 
 
 ## Class Methods
 
-- Lecture Class Methods 
-[PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S06-BasicClassMethods.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S6-EN-V1.mp4)
+- Lecture Class Methods [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S06-BasicClassMethods.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S6-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week3/C019SD-W3-S6-v3.mp4)
 
 
 
 ## About delegation
 
-- Lecture Reification and delegation - A case study: Microdown in Pillar  [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-6-CaseStudy-07-Pillar-ReifyAndDispatch.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S6.mp4)
+- Lecture Reification and delegation - A case study: Microdown in Pillar [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-6-CaseStudy-07-Pillar-ReifyAndDispatch.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S6.mp4)
 
 
 ## More on literal objects 
-- Lecture Characters, Strings and Symbols [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week6/C019-W6S07-CharacterStringSymbol.pdf)
+- Lecture Characters, Strings and Symbols [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week6/C019-W6S07-CharacterStringSymbol.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week6/C019SD-W6-S7-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week6/C019SD-W6-S7-v3.mp4)
 
 
 ## Customizing Pharo
 
-- Live Live A: Customized tabs in the Inspector
+- Live Live A: Customized tabs in the Inspector [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week6/W6-LiveA-EN-final.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week6/W6-LiveA-FR-final.mp4)
 
-- Live Live B: Personalize your image startup
+- Live Live B: Personalize your image startup [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week6/W6-LiveB-EN-final.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week6/W6-LiveB-FR-final.mp4)
 
 
 https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
 
 ## Hooks
-- Lecture Message sends are plans for reuse
-- Lecture Hooks and Templates
+- Lecture Message sends are plans for reuse [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-2-Essence-07-SelfSendsArePlansForReuse.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S2_V2.mp4)
+- Lecture Hooks and Templates [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week6/C019-W6S05-HookAndTemplate.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week6/C019SD-W6-S5-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week6/C019SD-W6-S5-v3.mp4)
 
 
 
 ## Advanced points on Classes
 
-- Lecture Advanced Points on Classes
-- Lecture Variable Size Objects
+- Lecture Advanced Points on Classes [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S01-AdvancedPointOnClasses.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week7/C019SD-W7-S1-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week7/C019SD-W7-S1-v3.mp4)
+- Lecture Variable Size Objects [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S02-VariableClasses.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week7/C019SD-W7-S2-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week7/C019SD-W7-S2-v3.mp4)
 
 ## Benchmark
 
-- Lecture Benchmarking in Pharo
+- Lecture Benchmarking in Pharo [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S09-Benchmarking.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week5/C019SD-W5-S9-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week5/C019SD-W5-S9-v3.mp4)
 
 
 

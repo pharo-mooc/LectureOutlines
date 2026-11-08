@@ -1,7 +1,7 @@
 ## Web
-- Lecture Overview of Pharo Web Stack [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S07-PharoWebStack.pdf)
-- Lecture Seaside: an Innovative Web Application Framework [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S08-Seaside.pdf)
-- Lecture Seaside: Rendering Components [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S09-SeasideDSL.pdf)
-- Lecture Seaside: a Glance at MetaData and REST [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S10-Seaside-MagritteREST.pdf)
-- Lecture Voyage: NoSql Object Database [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S11-Voyage.pdf)
+- Lecture Overview of Pharo Web Stack [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S07-PharoWebStack.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week4/C019SD-W4-S7-VoiceOverEN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week4/C019SD-W4-S7-v3.mp4)
+- Lecture Seaside: an Innovative Web Application Framework [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S08-Seaside.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week4/C019SD-W4-S8-VoiceOverEN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week4/C019SD-W4-S8-v3.mp4)
+- Lecture Seaside: Rendering Components [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S09-SeasideDSL.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week4/C019SD-W4-S9-VoiceOverEN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week4/C019SD-W4-S9-v3.mp4)
+- Lecture Seaside: a Glance at MetaData and REST [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S10-Seaside-MagritteREST.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week4/C019SD-W4-S10-VoiceOverEN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week4/C019SD-W4-S10-v3.mp4)
+- Lecture Voyage: NoSql Object Database [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week4/C019-W4S11-Voyage.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week4/C019SD-W4-S11-VoiceOverEN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week4/C019SD-W4-S11-v3.mp4)
 

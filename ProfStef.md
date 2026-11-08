@@ -2,7 +2,7 @@
 
 Pharo includes an interactive tutorial inside the IDE called *ProfStef*.
 
-- Here is a videos Live B: Prof Stef [https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveB-FR-final.mp4](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveB-FR-final.mp4)
+- Here is a videos Live B: Prof Stef [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week1/W1-LiveB-EN-final.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week1/W1-LiveB-FR-final.mp4)
 
 You can open it from a playground that you can get in the menu *Browse > Playground*.
 A playground is like an interactive console with vitamins.
