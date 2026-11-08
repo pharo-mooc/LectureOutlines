@@ -1,185 +1,97 @@
-
-## Streams and Iterators
-
-- Lecture Iterators [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S09-Iterators.pdf) / [Erratum](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S09-Iterators.pillar.erratum) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S9-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week3/C019SD-W3-S9-v3.mp4)
-
-- Lecture Stream Overview [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S10-Streams.pdf) / [Erratum](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S10-Streams.pillar.erratum) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S10-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week3/C019SD-W3-S10-v3.mp4)
-
-
-## Understanding Return
-
-- Lecture Understanding Return [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S11-UnderstandingReturn.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S11-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week3/C019SD-W3-S11-v1.mp4)
-
-
-## Class Methods
-
-- Lecture Class Methods [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S06-BasicClassMethods.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week3/C019SD-W3-S6-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week3/C019SD-W3-S6-v3.mp4)
-
-
-
-## About delegation
-
-- Lecture Reification and delegation - A case study: Microdown in Pillar [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-6-CaseStudy-07-Pillar-ReifyAndDispatch.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M01_S6.mp4)
-
-
-## More on literal objects 
-- Lecture Characters, Strings and Symbols [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week6/C019-W6S07-CharacterStringSymbol.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week6/C019SD-W6-S7-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week6/C019SD-W6-S7-v3.mp4)
-
-
-## Customizing Pharo
-
-- Live Live A: Customized tabs in the Inspector [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week6/W6-LiveA-EN-final.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week6/W6-LiveA-FR-final.mp4)
-
-- Live Live B: Personalize your image startup [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week6/W6-LiveB-EN-final.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week6/W6-LiveB-FR-final.mp4)
-
-
-https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S07-Files.pdf
-
-## Hooks
-- Lecture Message sends are plans for reuse [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-2-Essence-07-SelfSendsArePlansForReuse.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S2_V2.mp4)
-- Lecture Hooks and Templates [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week6/C019-W6S05-HookAndTemplate.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week6/C019SD-W6-S5-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week6/C019SD-W6-S5-v3.mp4)
-
-
-
-## Advanced points on Classes
-
-- Lecture Advanced Points on Classes [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S01-AdvancedPointOnClasses.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week7/C019SD-W7-S1-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week7/C019SD-W7-S1-v3.mp4)
-- Lecture Variable Size Objects [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week7/C019-W7S02-VariableClasses.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week7/C019SD-W7-S2-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week7/C019SD-W7-S2-v3.mp4)
-
-## Benchmark
-
-- Lecture Benchmarking in Pharo [PDF](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week5/C019-W5S09-Benchmarking.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/EN/Week5/C019SD-W5-S9-EN-V1.mp4) / [Video fr](https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC-Videos/FR/Week5/C019SD-W5-S9-v3.mp4)
-
-
-
-
-## Design Pattern Introduction
-- Lecture An Introduction to Design Patterns [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-1-DesignPattern-01-IntroDesignPattern.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M03_S1.mp4)
-
-
-
-
-
-
-## Fat 
-
-- Lecture Fat Classes Are Bad – A Large Class vs. a Class Hierarchy [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-4-BasicPrinciples-05-FatClassesAreBad.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S4.mp4)
-
-
-## Design Pattern: Singleton
-
-- Lecture Singleton: A Highly Misunderstood Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-5-DesignPattern-06-Singleton.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S5.mp4)
-
-
-## Design Pattern: Decorator
-
-- Lecture Decorator Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-6-DesignPattern-09-Decorator.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M04_S6.mp4)
-
-
-## Design Pattern: Composite
-
-- Lecture Composite: A Nice and Common Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-1-DesignPattern-03-Composite.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S1_V2.mp4)
-
-- Lecture About State Design Pattern [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-2-DesignPattern-11-State.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M05_S2_V2.mp4)
-
-
-
-
-
-
-
-
-
-
-## Visitor 
-- Lecture Visitor: Modular and Extensible First-Class Actions [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-4-DesignPattern-04-Visitor.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M06_S4.mp4)
-
-- Lecture Some Discussions on Visitor [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-5-DesignPattern-05-VisitorDiscussions.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M06_S5.mp4)
-
-## Double Dispatch Discussions
-
-- Lecture Stone Paper Scissors: The Case of Results [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-6-DoubleDispatch-05-StoneExercise-AboutResult.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M06_S6.mp4)
-
-- Lecture Double Dispatch: Adding Numbers as a Kata [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-7-DoubleDispatch-AddingNumbers.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M06_S7.mp4)
-
-
-## More on Hooks 
-
-- Lecture Customization Degree of Hooks: Class vs. Instance Hooks [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-2-Principles-07-ClassHookVsInstanceHook.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S2_V2.mp4)
-
-- Lecture DieHandle new vs. self class new: When Classes Are First-Class Citizens [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-3-Principles-06-selfVSClassDispatch.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S3.mp4)
-
-
-## Delegation at Work
-
-- Lecture Delegation of Actions and Accumulator: Form Validation as an Example [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-4-CaseStudy-03-UsingAnAccumulator-FormValidation.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S4.mp4)
-
-- Lecture Behavior Delegation at Work: The Case of the Class Printer [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-5-CaseStudy-04-PowerOfDelegationClassDefinitionPrinter.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S5_V2.mp4)
-
-
-## Builder
-
-- Lecture Builder Design Pattern: Encapsulating Object Creation [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-6-DesignPattern-08-Builder.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S6_V2.mp4)
-
-- Lecture Builder API Variations [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-7-Lang-05-AboutBuilder.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S7_V2.mp4)
-
-
-## Super?
-
-- Lecture Did You Really Understand Super? [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-8-Essence-06-DidYouUnderstandSuper.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M07_S8.mp4)
-
-## Sharing
-
-- Lecture Shared Variables: A Pharo Code Idiom [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-1-Lang-02-SharedVariables.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M08_S1.mp4)
-
-- Lecture Sharing with Instance-Specific Possibilities [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-2-Principles-08-Sharing.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M08_S2_V2.mp4)
-
-- Lecture Shared Pools: Static Sharing Between Hierarchies [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-3-Lang-03-SharedPools.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M08_S3.mp4)
-
-- Lecture A Variation on Sharing [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-7-Sharing-Alternate.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M08_S7.mp4)
-
-
-## Magic literals
-
-- Lecture About Magic Literals [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-4-Essence-08-AboutMagicNumbers.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M08_S4_V2.mp4)
-
-## Flyweight
-
-- Lecture Flyweight [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-5-DesignPattern-10-Flyweigth.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M08_S5_V2.mp4)
-
-- Lecture TypeObject [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-6-DesignPattern-12-TypeObject.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M08_S6.mp4)
-
-
-
-## Coupling
-
-- Lecture About Coupling and Encapsulation [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-1-Principles-04-LawOfDemeter.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M09_S1_V2.mp4)
-
-
-- Lecture Class Methods at Work [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-2-Principles-02-AboutClassMethodsAndRegistration.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M09_S2.mp4)
-
-- Lecture About Registration: When Class Method-Based Registration Is Too Much [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-3-Principles-03-AboutRegistration.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M09_S3_V2.mp4)
-
-- Lecture Application Settings: From a Monolithic to a Modular Architecture [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-4-CaseStudy-06-LayeredSettingsArchitecture.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M09_S4_V2.mp4)
-
-
-## Sokoban
-
-- Lecture Learning from a Sokoban Implementation [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-5-CaseStudy-05-Sokoban-Analysis.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M09_S5_V2.mp4)
-
-## OOP not class
-
-- Lecture Class vs. Object-Oriented Programming [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-6-ClassVSObjectProgramming.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M09_S6_V2.mp4)
-
-- Lecture The Two Interfaces: In Presence of Delta Programming [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M10-1-Principles-12-DualInterfaces.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M10_S1.mp4)
-
-
-## Subclassing
-
-- Lecture Subclassing vs. Subtyping [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M10-2-Principles-09-SubtypingVsSubclassing.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M10_S2_V2.mp4)
-
-- Lecture About Type and Method Lookup [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M10-3-Principles-10-DynamicStaticType.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M10_S3.mp4)
-
-- Lecture Polymorphic Objects: Support for Software Evolution [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M10-4-Principles-11-PolymorphismSupportEvolution.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M10_S4_V3.mp4)
-
-- Lecture About Defensive Programming [PDF](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M10-5-Principles-05-AboutDefensiveProgramming.pdf) / [Video en](https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Videos/M10_S5.mp4)
+# Lecture Units
+
+Each file in this folder is a small lecture unit: a title followed by its lectures, with links to slides and videos.
+Each lecture belongs to exactly one unit. Units are recomposed into lectures (for example the Mada lecture) by linking to them.
+
+## Getting started
+
+- [Why Pharo?](WhyPharo.md)
+- [Install Pharo](InstallPharo.md)
+- [ProfStef: a Little Interactive Tutorial](ProfStef.md)
+
+## Syntax and basics
+
+- [Syntax in a Nutshell](SyntaxInANutshell.md)
+- [Syntax: Messages](Syntax-Messages.md)
+- [Blocks, Loops, Booleans and More](BlocksAndMore.md)
+- [Collections](Collections.md)
+- [Streams](Streams.md)
+- [Understanding Return](UnderstandingReturn.md)
+- [More on Literal Objects](LiteralObjects.md)
+- [Class Methods](ClassMethods.md)
+- [Files and Exceptions](FilesAndExceptions.md)
+- [Step Back: Common Errors](CommonErrors.md)
+
+## IDE and tools
+
+- [Editing Practices](EditingPractices.md)
+- [IDE](IDETools.md)
+- [Understanding Navigation](UnderstandNavigation.md)
+- [Advanced Features](AdvancedFeatures.md)
+- [Refactorings Session](Refactorings.md)
+- [Customizing Pharo](CustomizingPharo.md)
+- [Benchmark](Benchmark.md)
+
+## Testing
+
+- [Basics on Testing](BasicsOnTesting.md)
+- [Test TDD](TDD.md)
+- [Test XTDD](XTDD.md)
+
+## Essence of object-oriented design
+
+- [Essence of Dispatch](EssenceOfDispatch.md)
+- [Inheritance](InheritanceSelfSuper.md)
+- [Super?](Super.md)
+- [Hooks and Reuse](ReuseAndHooks.md)
+- [More on Hooks](MoreOnHooks.md)
+- [Rethink Global](Global.md)
+- [Fat Classes](FatClasses.md)
+- [Delegation and Inheritance](InheritanceVsUse.md)
+- [About Delegation](AboutDelegation.md)
+- [Delegation at Work](DelegationAtWork.md)
+- [Emergence of Objects](EmergenceOfObjects.md)
+- [Null Checks](NullCheck.md)
+- [Fluid API](FluidAPI.md)
+- [Magic Literals](MagicLiterals.md)
+- [Sharing](Sharing.md)
+- [Coupling](Coupling.md)
+- [OOP not Class](OOPNotClass.md)
+- [Subclassing](Subclassing.md)
+
+## Design patterns
+
+- [Design Pattern Introduction](DPIntroduction.md)
+- [Design Pattern: Singleton](DPSingleton.md)
+- [Design Pattern: Decorator](DPDecorator.md)
+- [Design Pattern: Composite](DPComposite.md)
+- [Command Pattern](DPCommand.md)
+- [Visitor](DPVisitor.md)
+- [Builder](DPBuilder.md)
+- [Flyweight](DPFlyweight.md)
+- [Double Dispatch](DoubleDispatch.md)
+- [Double Dispatch Discussions](DoubleDispatchDiscussions.md)
+
+## Reflection and advanced topics
+
+- [Basic Reflection](Introspection.md)
+- [Reflective Operations](Reflection.md)
+- [Understanding Metaclasses](UnderstandingMetaclass.md)
+- [Advanced Points on Classes](AdvancedPointsOnClasses.md)
+- [Web](Web.md)
+
+## Exercises
+
+- [Counter Exercise](CounterExercise.md)
+- [Exercise: Domain Specific Language](DSL.md)
+- [Sokoban](Sokoban.md)
+- [Bloc](ExerciseBloc.md)
+- [Practice: Game](ExerciseGame.md)
+- [Flag Country Tutorial](FlagCountryTutorial/Readme.md)
+
+## Modules
+
+- [Module 00: Tests Basic](Module00-Tests-Basic/)
+- [Module 01](Module01/)
+- [Module 01: OOP](Module01-OOP/)
+- [Module 05: Composite and Visitor](Module05-CompositeVisitor/)
