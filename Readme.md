@@ -1,7 +1,7 @@
 # Lecture Units
 
 Each file in this folder is a small lecture unit: a title followed by its lectures, with links to slides and videos.
-Each lecture belongs to exactly one unit. Units are recomposed into lectures (for example the Mada lecture) by linking to them.
+Units are recomposed into lectures (for example the Mada lecture) by linking to them.
 
 ## Getting started
 
@@ -15,7 +15,7 @@ Each lecture belongs to exactly one unit. Units are recomposed into lectures (fo
 - [Syntax: Messages](Syntax-Messages.md)
 - [Blocks, Loops, Booleans and More](BlocksAndMore.md)
 - [Collections](Collections.md)
-- [Streams](Streams.md)
+- [Streams and Iterators](StreamsAndIterators.md)
 - [Understanding Return](UnderstandingReturn.md)
 - [More on Literal Objects](LiteralObjects.md)
 - [Class Methods](ClassMethods.md)
@@ -27,6 +27,7 @@ Each lecture belongs to exactly one unit. Units are recomposed into lectures (fo
 - [Editing Practices](EditingPractices.md)
 - [IDE](IDETools.md)
 - [Understanding Navigation](UnderstandNavigation.md)
+- [Saving on GitHub](ManagingProjectonGithub.md)
 - [Advanced Features](AdvancedFeatures.md)
 - [Refactorings Session](Refactorings.md)
 - [Customizing Pharo](CustomizingPharo.md)
@@ -44,6 +45,7 @@ Each lecture belongs to exactly one unit. Units are recomposed into lectures (fo
 - [Inheritance](InheritanceSelfSuper.md)
 - [Super?](Super.md)
 - [Hooks and Reuse](ReuseAndHooks.md)
+- [Hooks](Hooks.md)
 - [More on Hooks](MoreOnHooks.md)
 - [Rethink Global](Global.md)
 - [Fat Classes](FatClasses.md)
